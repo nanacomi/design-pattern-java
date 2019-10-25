@@ -41,5 +41,4 @@ public class MessageBox implements Product {
         return p;
     }
 
-    Object
 }
